@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.product{
+  background-color:white;
+  padding: 20px;
+  border-radius: 5px;
+  color: black;
+  img{
+    height: 400px;
+    object-fit: contain;
+  }
+  h3{
+    font-size: 25px;
+    line-height: 10px;
+  }
+  h5{
+    font-size: 15px;
+    font:bold;
+  }
+}
